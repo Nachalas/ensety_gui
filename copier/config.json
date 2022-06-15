@@ -1,0 +1,9 @@
+{
+	"thread_count": 6,
+	"destination_folder": "/home/uladzislau/to2/",
+	"source_folder": "/home/uladzislau/chromium/",
+	"file_mask": "[a-z]+\\.pack",
+	"additional_ext": ".backup",
+	"log_level_": "info",
+	"scan_timeout": 10
+}
